@@ -1,0 +1,8 @@
+C:\Users\septi\OneDrive\Escritorio\practica2\practica2\bin\Debug\practica2.exe.config
+C:\Users\septi\OneDrive\Escritorio\practica2\practica2\bin\Debug\practica2.exe
+C:\Users\septi\OneDrive\Escritorio\practica2\practica2\bin\Debug\practica2.pdb
+C:\Users\septi\OneDrive\Escritorio\practica2\practica2\obj\Debug\practica2.csproj.AssemblyReference.cache
+C:\Users\septi\OneDrive\Escritorio\practica2\practica2\obj\Debug\practica2.csproj.SuggestedBindingRedirects.cache
+C:\Users\septi\OneDrive\Escritorio\practica2\practica2\obj\Debug\practica2.csproj.CoreCompileInputs.cache
+C:\Users\septi\OneDrive\Escritorio\practica2\practica2\obj\Debug\practica2.exe
+C:\Users\septi\OneDrive\Escritorio\practica2\practica2\obj\Debug\practica2.pdb
